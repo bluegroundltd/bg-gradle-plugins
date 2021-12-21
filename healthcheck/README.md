@@ -4,13 +4,17 @@ This plugin allows you to do health checks on a specified endpoint
 
 https://plugins.gradle.org/plugin/com.theblueground.healthcheck
 
+## Use cases
+* Run tests after server is ready
+* Wait for DB to be available
+
 ## Installation
 
 ### Kotlin
 
 ```kotlin
 plugins {
-  id("com.theblueground.healthcheck") version "0.0.1"
+  id("com.theblueground.healthcheck") version "1.0.0"
 }
 ```
 
@@ -18,7 +22,7 @@ plugins {
 
 ```groovy
 plugins {
-  id "com.theblueground.healthcheck" version "0.0.1"
+  id "com.theblueground.healthcheck" version "1.0.0"
 }
 ```
 
