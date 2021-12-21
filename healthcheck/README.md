@@ -10,7 +10,7 @@ https://plugins.gradle.org/plugin/com.theblueground.healthcheck
 
 ```kotlin
 plugins {
-  id("com.theblueground.healthcheck") version "0.0.1"
+  id("com.theblueground.healthcheck") version "1.0.0"
 }
 ```
 
@@ -18,7 +18,7 @@ plugins {
 
 ```groovy
 plugins {
-  id "com.theblueground.healthcheck" version "0.0.1"
+  id "com.theblueground.healthcheck" version "1.0.0"
 }
 ```
 
