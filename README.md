@@ -1,6 +1,6 @@
 # Blueground Gradle Plugins
 
-...
+- [HealthCheck](healthcheck/README.md)
 
 # Publishing instructions
 
